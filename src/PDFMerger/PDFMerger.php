@@ -144,7 +144,7 @@ class PDFMerger {
     }
 
     /**
-     * Set the final filename
+     * Add a string for inclusion in the merge
      * @param string $string
      * @param mixed $pages
      * @param mixed $orientation
